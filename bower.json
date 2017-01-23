@@ -1,0 +1,17 @@
+{
+  "name": "ballot",
+  "authors": [
+    "cengkuru <mcengkuru@gmail.com>"
+  ],
+  "description": "employee of the month voter app",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
